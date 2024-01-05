@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  /* background-color: black; */
+  /* color: white; */
+}
+::selection{
+  color: yellowgreen;
+
+}
